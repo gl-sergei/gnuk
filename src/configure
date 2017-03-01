@@ -152,6 +152,9 @@ STBEE)
 STM8S_DISCOVERY)
   FLASH_SIZE=64
   ;;
+BLACK_PILL)
+  FLASH_SIZE=64
+  ;;
 *)
   ;;
 esac
